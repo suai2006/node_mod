@@ -1,0 +1,14 @@
+#include <windows.h>
+#include <iostream>
+#include <tchar.h> 
+#include <stdio.h>
+#include <cstring>
+#include <strsafe.h>
+#include <node.h>
+#include <v8.h>
+//#include <nan.h>
+#include <string>
+#include <array>
+#include <vector>
+#include <malloc.h>
+#include <fstream>
